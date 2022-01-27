@@ -3,7 +3,7 @@ tag=v5.15.6
 files="
 include/linux/mhi.h \
 include/linux/wwan.h \
-include/uapi/linux/wwan.h \
+include/uapi/linux/wwan.h
 drivers/bus/mhi/Makefile \
 drivers/bus/mhi/Kconfig \
 drivers/bus/mhi/pci_generic.c \
